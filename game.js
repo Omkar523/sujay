@@ -184,7 +184,7 @@ function checkAns(currentlevel)
     }, 200);
         userGen=[]
         computerGen=[]
-        $("#level-title").text("Kide re itlech Jamta? Shii Failed on Level"+"level")
+        $("#level-title").text("Kide re itlech Jamta? Shii Failed on Level"+level)
         level=0
         setTimeout(function () {
             start=false;
