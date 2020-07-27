@@ -24,8 +24,8 @@ body {
   
   .btn {
     margin: 0.5rem;
-    height: 15rem;
-    width: 15em;
+    height: 20rem;
+    width: 20em;
     border: 10px solid black;
     border-radius: 20%;
   }
